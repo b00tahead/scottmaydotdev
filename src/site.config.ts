@@ -1,13 +1,13 @@
 /** Site configuration — edit this file to customize your blog. */
 export const site = {
   /** Production URL (no trailing slash). */
-  baseUrl: 'https://astro-theme-aonote.vercel.app',
+  baseUrl: 'https://scottmay.dev',
   /** GitHub Pages subpath, e.g. "/repo-name". Leave empty for root deploy. */
   repoSubpath: '',
-  title: 'Aonote',
+  title: 'Scott\'s Blog',
   description:
-    'A static notebook for data science, minimalism, and the open web.',
-  author: 'Aonote',
+    'A static notebook for thoughts on human-centered design, marketing, and products.',
+  author: 'Scott May',
   /** UI language: "zh-CN" | "en" */
   language: 'en' as 'zh-CN' | 'en',
   maxPostsOnIndex: 5,
