@@ -5,8 +5,7 @@ summary: Human-centered work has never been more important.
 tags: [ux, product, marketing]
 ---
 
-![Photo by <a href="https://unsplash.com/@sashafreemind?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sasha  Freemind</a> on <a href="https://unsplash.com/photos/man-standing-in-front-of-the-window-Pv5WeEyxMWU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      ](/public/static/sasha-freemind-Pv5WeEyxMWU-unsplash.jpg)
+![Photo by Sasha  Freemind on Unsplash](/static/sasha-freemind-Pv5WeEyxMWU-unsplash.jpg)
 
 Someone built a whole app last weekend. It worked, looked good, and was live by Sunday night. All they did was tell an AI tool what they wanted in plain English and watched it come to life.
 
