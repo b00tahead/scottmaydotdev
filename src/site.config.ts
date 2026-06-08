@@ -4,7 +4,7 @@ export const site = {
   baseUrl: 'https://scottmay.dev',
   /** GitHub Pages subpath, e.g. "/repo-name". Leave empty for root deploy. */
   repoSubpath: '',
-  title: 'A Human-Centered Approach',
+  title: 'The Human Layer',
   description:
     'A static notebook for thoughts on human-centered design, marketing, and products.',
   author: 'Scott May',
