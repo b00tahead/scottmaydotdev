@@ -2,7 +2,7 @@
 title: A new epidemic.
 date: 2026-06-08
 summary: Why human-centered work matters more than ever.
-tags: [ux, product, marketing]
+tags: [ux, product, marketing, artificial intelligence]
 ---
 
 ![Photo by Sasha  Freemind on Unsplash](/static/sasha-freemind-Pv5WeEyxMWU-unsplash.jpg)
