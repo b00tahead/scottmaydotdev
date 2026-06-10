@@ -1,7 +1,7 @@
 ---
 title: The human on the other end.
 date: 2026-06-09
-summary: What this blog is about (an what it isn't).
+summary: What this blog is about (and what it isn't).
 tags: [ux, product, marketing]
 ---
 
